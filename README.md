@@ -31,7 +31,7 @@ The dashboard enables users to:
 - Customer Churn Dashboard Instructional.docx (Documentation explaining the dashboard structure and project methodology)
 
 # Dashboard Preview
-![Customer Churn Dashboard](customerchurn.png)
+![Customer Churn Dashboard](images/customerchurn.png)
 
 ## Key Insight
 Customer churn often correlates with factors such as contract type, length of service, and product usage patterns. By visualizing these relationships, organizations can identify at-risk customers and implement targeted retention initiatives.
