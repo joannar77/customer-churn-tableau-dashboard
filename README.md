@@ -28,7 +28,10 @@ The dashboard enables users to:
 ## Repository Contents
 - Customer Churn Dashboard_D601.twbx
 - Tableau packaged workbook containing the dashboard and dataset.
-- Customer Churn Dashboard Instructional.docx (Documentation explaining the dashboard structure and project methodology).
+- Customer Churn Dashboard Instructional.docx (Documentation explaining the dashboard structure and project methodology)
+
+# Dashboard Preview
+![Customer Churn Dashboard](customerchurn.png)
 
 ## Key Insight
 Customer churn often correlates with factors such as contract type, length of service, and product usage patterns. By visualizing these relationships, organizations can identify at-risk customers and implement targeted retention initiatives.
