@@ -69,7 +69,7 @@ Interactive filters allow analysts and business stakeholders to quickly explore 
 
 # Dashboard Preview
 
-![Customer Churn Dashboard](customerchurn.png)
+![Customer Churn Tableau Dashboard](https://raw.githubusercontent.com/joannar77/customer-churn-tableau-dashboard/main/customer_churn.png)
 
 ---
 
